@@ -74,7 +74,7 @@ int main()
 		strcpy_s(strings[i], strlen(buffer) + 1, buffer);
 	}
 
-	cout << "Average mean of string massive: " << averageMean(strings, 3) << endl;
+	cout << "Average mean of string massive: " << averageMean<char*>(strings, 3) << endl;
 
 	for (int i = 0; i < 3; i++)
 	{
