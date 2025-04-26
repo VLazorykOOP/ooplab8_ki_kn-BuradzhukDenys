@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "task1(var4)", "task1(var4)\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "task2(var4)", "task2(var4)\task2(var4).vcxproj", "{F3DC3030-B923-4DFF-B808-77DEC7CEBCF8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "task3(var4)", "task3(var4)\task3(var4).vcxproj", "{ABB94466-AD10-4CE8-BD61-7ED48DC886E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{F3DC3030-B923-4DFF-B808-77DEC7CEBCF8}.Release|x64.Build.0 = Release|x64
 		{F3DC3030-B923-4DFF-B808-77DEC7CEBCF8}.Release|x86.ActiveCfg = Release|Win32
 		{F3DC3030-B923-4DFF-B808-77DEC7CEBCF8}.Release|x86.Build.0 = Release|Win32
+		{ABB94466-AD10-4CE8-BD61-7ED48DC886E1}.Debug|x64.ActiveCfg = Debug|x64
+		{ABB94466-AD10-4CE8-BD61-7ED48DC886E1}.Debug|x64.Build.0 = Debug|x64
+		{ABB94466-AD10-4CE8-BD61-7ED48DC886E1}.Debug|x86.ActiveCfg = Debug|Win32
+		{ABB94466-AD10-4CE8-BD61-7ED48DC886E1}.Debug|x86.Build.0 = Debug|Win32
+		{ABB94466-AD10-4CE8-BD61-7ED48DC886E1}.Release|x64.ActiveCfg = Release|x64
+		{ABB94466-AD10-4CE8-BD61-7ED48DC886E1}.Release|x64.Build.0 = Release|x64
+		{ABB94466-AD10-4CE8-BD61-7ED48DC886E1}.Release|x86.ActiveCfg = Release|Win32
+		{ABB94466-AD10-4CE8-BD61-7ED48DC886E1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

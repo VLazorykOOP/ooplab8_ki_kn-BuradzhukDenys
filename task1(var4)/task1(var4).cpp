@@ -4,6 +4,7 @@
 
 using namespace std;
 
+//Створюємо функцію-шаблон для знаходження середнього значення в масиві
 template <typename T>
 double averageMean(T arr[], int size)
 {
@@ -17,6 +18,7 @@ double averageMean(T arr[], int size)
 	return sum / size;
 }
 
+//створюємо специфікацію функції-шаблон для типу char*
 template<>
 double averageMean<char*>(char* arr[], int size)
 {
